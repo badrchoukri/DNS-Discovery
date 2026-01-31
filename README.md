@@ -8,13 +8,6 @@ Features :
 
 - Detects valid subdomains and prints their IP addresses
 
-- Optional display of failed lookups with the -o flag
-
-- Colored output for better readability
-
-- Handles common DNS errors (NXDOMAIN, Timeout)
-
-- Graceful shutdown when interrupted by the user
 
 Usage
 ```bash
