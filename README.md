@@ -28,3 +28,7 @@ Help menu
 ```bash
 python DNS_explorer.py -h
 ```
+clone it 
+```bash
+git clone https://github.com/badrchoukri/DNS-Discovery.git
+```
