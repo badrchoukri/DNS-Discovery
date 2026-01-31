@@ -1,6 +1,6 @@
-# DNS-Discovery
+# DNS-Explorer
 
-DNS Discovery is a simple Python-based subdomain enumeration tool that performs DNS lookups using a wordlist.
+DNS Explorer is a simple Python-based subdomain enumeration tool that performs DNS lookups using a wordlist.
 
 Features :
 
