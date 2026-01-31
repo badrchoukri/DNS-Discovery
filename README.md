@@ -8,6 +8,8 @@ Features :
 
 - Detects valid subdomains and prints their IP addresses
 
+- Colored terminal results (green for found, red for errors)
+
 
 Usage
 ```bash
